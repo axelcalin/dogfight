@@ -1,6 +1,6 @@
 package jpu2016.dogfight.controller;
 
-public class UserOrder
+public class UserOrder extends IUserOrder
 {
 	int player;
 	
@@ -9,6 +9,14 @@ public class UserOrder
 		
 	}
 	
+	public void getOrder()
+	{
+		
+	}
 	
+	public void getPlayer()
+	{
+		
+	}
 
 }
