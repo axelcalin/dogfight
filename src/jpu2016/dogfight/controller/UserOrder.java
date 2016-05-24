@@ -4,7 +4,7 @@ public class UserOrder extends IUserOrder
 {
 	int player;
 	
-	void UserOrder (int player, Order order)
+	UserOrder (int player, Order order)
 	{
 		
 	}
